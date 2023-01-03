@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.class1 {
+    background-color: #86C8BC;
+    font-style: italic;
+    padding: 20px;
+    color: #4B56D2;
+    font-size: 30px;
+}
